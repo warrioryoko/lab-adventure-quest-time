@@ -1,0 +1,1 @@
+console.log('Quest page of The Tale of Derp');
