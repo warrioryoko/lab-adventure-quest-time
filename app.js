@@ -19,6 +19,8 @@ userForm.addEventListener('submit', (e) => {
     const stringUserData = JSON.stringify(user);
     localStorage.setItem('USER', stringUserData);
 
+    window.location = './map';
+
     //Sanity check
     console.log(stringUserData);
     console.log(localStorage.getItem('USER'));
