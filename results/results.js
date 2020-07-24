@@ -1,0 +1,1 @@
+console.log('Results page. Save yourself the trouble: you died.');
